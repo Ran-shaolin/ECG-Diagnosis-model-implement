@@ -1,0 +1,14 @@
+{
+    "disease_num": 26,
+    
+    "batch_size": 64,
+    
+    "ecg_root_path": "/media/user/My Book/ECG/",
+    
+    "multilabel_save_folder": "./ECG/",
+    "multilabel_data_folder": "./ECG/data/",
+    "multilabel_label_folder": "./ECG/label/",
+    
+    "abbr_list": ["Normal", "ST", "SB", "PAC", "AR", "AAR","AT", "AFlutter", "AFib", "PJC", "JR", "AJR", "PSVT", "PVC", "IVR", "AIVR","VT", "AAPR", "AVPR", "LBBB", "RBBB", "1st Deg AVB", "Mobitz I AVB","Mobitz II AVB", "WPW-B", "WPW-A"]
+
+}
